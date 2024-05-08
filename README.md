@@ -1,1 +1,1 @@
-# MyntraDashboardWithExcel
+A dashboard project created using Excel, analyzing Myntra sales data sourced from Kaggle. Steps involved data preprocessing, pivot table creation, and visualization to extract key insights. This project serve as a foundational learning experience in data analysis and visualization. 
